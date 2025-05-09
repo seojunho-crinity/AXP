@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: AXP
+email: axp@crinity.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  크리니티의 AXP(AX Platform)는 AI 기술을 활용한 메신저 개발과 사내 데이터 관리 및 연계, AI 서비스 기획을 담당하는 플랫폼입니다. 
 baseurl: "/AXP" # the subpath of your site, e.g. /blog
 url: "https://seojunho-crinity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: AXP
+github_username:  AXP
 
 # Build settings
 #theme: "mmistakes/so-simple-theme@3.2.0"
